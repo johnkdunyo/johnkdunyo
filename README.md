@@ -1,4 +1,4 @@
-### Hi there 👋, I am [John Kwame Dunyo](https://john-kwame-dunyo.netlify.app/)! 😁
+### Hi there 👋, I am [John Kwame Dunyo](https://john-kwame-dunyo.netlify.app/)! 😁 💻
 
 <img src='/banner.jpeg'>
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is John Kwame Dunyo and I am a fullstack Software Developer, Research Engineering and a Data Analyst. 
+I am Junior Fullstack Developer able to build a Web presence from the ground up - from concept, navigation, layout and programming to UX and SEO. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. I am a fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
 
 
 **Languages and Tools:** 
