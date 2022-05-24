@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 I am fullstack developer able to build a Web presence from the ground up - from concept, navigation, layout and programming to UX and SEO. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. I am a fast learner, hard worker and team player who is proficient in an array of scripting languages.
 
 I am also a reasearch engineer😄🔭. My primary research interests include; <br/>
-Computer Vision 📹, Machine Learning 🖥️,  Big Data Analytics 📊,  Embedded Systems 🪫,  Robotics 🤖 and Internet of Things (IoT) 🌐. 
+Computer Vision 📹, Machine Learning 🖥️,  Big Data Analytics 📊,  Embedded Systems 🪫,  Robotics 🤖 and Internet of Things (IoT) 🌐
 
 I am very interested in working at the intersection of Systems and Artificial Intelligence (AI) / Machine Learning (ML) to build the next generation intelligent computer systems that would allow us to fully harness the power of AI/ML to solve problems.
 
 
-**🔨Languages and Tools:** 
+### 🔨Languages and Tools
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
