@@ -63,5 +63,5 @@ I am very interested in working at the intersection of Systems and Artificial In
 
 <a href="https://twitter.com/johnkdunyo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnkdunyo-twitter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/johnkdunyo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkdunyo-linkedin" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=PZfAUoUAAAAJ&hl=en" target="_blank"><img align="center" src="icons/google-scholar.png" alt="johnkdunyo-linkedin" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=PZfAUoUAAAAJ&hl=en" target="_blank"><img align="center" src="icons/google-scholar.png" alt="johnkdunyo-linkedin" height="30px" width="30px" /></a>
 
