@@ -1,4 +1,4 @@
-### Hi there 👋, I am [John Kwame Dunyo](https://john-kwame-dunyo.netlify.app/)! 😁 💻
+### Hi there 👋, I am [John Kwame Dunyo](https://johnkdunyo.netlify.app/)! 😁 💻
 
 <img src='/banner.jpeg'>
 
